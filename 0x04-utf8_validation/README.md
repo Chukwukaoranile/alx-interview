@@ -5,8 +5,9 @@ _Algorithm, Python_
 **Resources**
 _Read or watch:_
 
-* [UTF-8]()
-* [Characters, Symbols, and the Unicode Miracle]()
+* [UTF-8](https://en.m.wikipedia.org/wiki/UTF-8)
+* [Characters, Symbols, and the Unicode Miracle](https://youtu.be/MijmeoH9LT4)
+
 **Requirements**
 
 _General_
